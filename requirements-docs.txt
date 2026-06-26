@@ -1,2 +1,0 @@
-# Documentation toolchain for the MkDocs Material site.
-mkdocs-material>=9.7.6

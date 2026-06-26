@@ -2,7 +2,7 @@
 
 AI-native archival infrastructure for files that matter.
 
-**[Documentation](https://fialr.com)** · **[Purchase](https://fialr.com/licensing/)** · **[Issues](https://github.com/fialr-com/fialr/issues)**
+**[Documentation](https://fialr.com)** · **[Purchase](https://fialr.com/licensing/)** · **[Issues](https://github.com/fialr-app/fialr/issues)**
 
 ---
 
@@ -48,8 +48,8 @@ Full documentation at [fialr.com](https://fialr.com):
 
 This repository is the public issue tracker for fialr. Use it to report bugs, request features, and ask questions.
 
-- [Report a bug](https://github.com/fialr-com/fialr/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/fialr-com/fialr/issues/new?template=feature_request.yml)
+- [Report a bug](https://github.com/fialr-app/fialr/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/fialr-app/fialr/issues/new?template=feature_request.yml)
 
 For security vulnerabilities, do not open a public issue. Email security@fialr.com.
 
