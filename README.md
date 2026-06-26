@@ -2,7 +2,7 @@
 
 AI-native archival infrastructure for files that matter.
 
-**[Documentation](https://fialr.com)** · **[Purchase](https://fialr.com/licensing/)** · **[Issues](https://github.com/fialr-app/fialr/issues)**
+**[Documentation](https://fialr.com)** · **[Purchase](https://fialr.com/licensing)** · **[Issues](https://github.com/fialr-app/fialr/issues)**
 
 ---
 
@@ -19,7 +19,7 @@ Every file is enriched by local AI that learns from your corpus. Every operation
 
 ## Install
 
-Purchase a license at [fialr.com/licensing](https://fialr.com/licensing/) to receive a download link and license key.
+Purchase a license at [fialr.com/licensing](https://fialr.com/licensing) to receive a download link and license key.
 
 | Platform | Binary |
 |---|---|
@@ -39,10 +39,10 @@ One-time activation via `api.fialr.com`. Fully offline after activation.
 
 Full documentation at [fialr.com](https://fialr.com):
 
-- [Installation](https://fialr.com/getting-started/installation/)
-- [Quick Start](https://fialr.com/getting-started/quick-start/)
-- [CLI Reference](https://fialr.com/cli/overview/)
-- [Architecture](https://fialr.com/architecture/overview/)
+- [Installation](https://fialr.com/getting-started/installation)
+- [Quick Start](https://fialr.com/getting-started/quick-start)
+- [CLI Reference](https://fialr.com/cli/overview)
+- [Architecture](https://fialr.com/architecture/overview)
 
 ## Issues
 
@@ -57,4 +57,4 @@ For billing and licensing issues, email licensing@fialr.com.
 
 ## License
 
-fialr is proprietary software. See [Terms of Use](https://fialr.com/legal/terms/) and [Licensing](https://fialr.com/licensing/).
+fialr is proprietary software. See [Terms of Use](https://fialr.com/legal/terms) and [Licensing](https://fialr.com/licensing).
