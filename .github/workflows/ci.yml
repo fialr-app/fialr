@@ -16,7 +16,7 @@ jobs:
   docs:
     # Name kept as the ruleset's required-check context. The MkDocs build was
     # retired (docs live at fialr.com); this now runs the parity check only.
-    name: docs build + parity
+    name: docs parity
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4
@@ -25,3 +25,5 @@ jobs:
           python-version: "3.12"
       - name: Doc-parity (README/CHANGELOG reference only real commands)
         run: python scripts/check_docs_parity.py
+      - name: Claude skill system is current
+        run: python scripts/check_skills.py
