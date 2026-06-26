@@ -38,4 +38,4 @@ Out of scope:
 
 The full security model -- assets, trust boundaries, per-component threats and
 mitigations, and secrets-rotation procedures -- is documented at the
-[Security](https://fialr-com.github.io/fialr/security/) page of the docs.
+[Security](https://fialr.com/legal/security/) page of the docs.
